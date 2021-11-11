@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kingabuczniewska.github.io/csb-leejc/static/css/main.bc55c046.chunk.css",
+    "main.js": "https://kingabuczniewska.github.io/csb-leejc/static/js/main.2fef6d2e.chunk.js",
+    "main.js.map": "https://kingabuczniewska.github.io/csb-leejc/static/js/main.2fef6d2e.chunk.js.map",
+    "runtime-main.js": "https://kingabuczniewska.github.io/csb-leejc/static/js/runtime-main.0f31c38d.js",
+    "runtime-main.js.map": "https://kingabuczniewska.github.io/csb-leejc/static/js/runtime-main.0f31c38d.js.map",
+    "static/js/2.cd9887cf.chunk.js": "https://kingabuczniewska.github.io/csb-leejc/static/js/2.cd9887cf.chunk.js",
+    "static/js/2.cd9887cf.chunk.js.map": "https://kingabuczniewska.github.io/csb-leejc/static/js/2.cd9887cf.chunk.js.map",
+    "index.html": "https://kingabuczniewska.github.io/csb-leejc/index.html",
+    "static/css/main.bc55c046.chunk.css.map": "https://kingabuczniewska.github.io/csb-leejc/static/css/main.bc55c046.chunk.css.map",
+    "static/js/2.cd9887cf.chunk.js.LICENSE.txt": "https://kingabuczniewska.github.io/csb-leejc/static/js/2.cd9887cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f31c38d.js",
+    "static/js/2.cd9887cf.chunk.js",
+    "static/css/main.bc55c046.chunk.css",
+    "static/js/main.2fef6d2e.chunk.js"
+  ]
+}
